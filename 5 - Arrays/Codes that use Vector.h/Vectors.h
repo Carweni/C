@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 // Functions to display arrays:
 void showIntegerArray(int array[], int size)
 {
